@@ -1,0 +1,17 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Abril+Fatface&family=Anton&family=Bebas+Neue&family=Josefin+Sans&family=Lexend+Deca:wght@100;200;300&family=Livvic:wght@100&family=Montserrat:wght@300&family=Orelega+One&family=Poppins:wght@500&family=Roboto:wght@500&family=Ubuntu:ital,wght@0,400;1,300&display=swap');
+
+
+.section-header{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+.heading-style{
+   color:  #FABE4C;;
+}
+
+.btn{
+    background-color: #8FA927;
+    width: 170px;
+    height: 60px;
+}
